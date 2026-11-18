@@ -117,8 +117,8 @@ def icon_cyclone(d, x, y, s):
 STORIES = [
     ("MIDDLE EAST", (176, 58, 46), icon_sanctions,
      "West Bank settlers face sanctions",
-     "Canberra sanctions 3 people and 4 groups over West Bank "
-     "settlement growth and settler violence."),
+     "3 people and 4 groups are sanctioned by Canberra over "
+     "West Bank settlement growth and settler violence."),
     ("ASIA-PACIFIC", (26, 107, 138), icon_globe,
      "APEC leaders gather in Shenzhen",
      "Xi chairs the 33rd APEC meeting as Trump, Putin and Lee "
